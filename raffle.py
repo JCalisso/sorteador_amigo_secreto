@@ -9,14 +9,7 @@ qtd_amigos = 8
 
 
 amigos = [
-    {'id': 1, 'nome': 'Jean Calisso', 'email': 'jv.calisso@gmail.com'},
-    {'id': 2, 'nome': 'Vitória Gava', 'email': 'vickgava@gmail.com'},
-    {'id': 3, 'nome': 'Ronaldo', 'email': 'ronaldohenriquenado@gmail.com'},
-    {'id': 4, 'nome': 'Maria Almeida', 'email': 'marialmeidapb2000@gmail.com'},
-    {'id': 5, 'nome': 'Letícia Berti', 'email': 'leticiarbds@icloud.com'},
-    {'id': 6, 'nome': 'Fernando Berti', 'email': 'bertifernando50@gmail.com'},
-    {'id': 7, 'nome': 'Miguel', 'email': 'miguelspinelnet@gmail.com'},
-    {'id': 8, 'nome': 'Bia Nunes', 'email': 'Thomazbia18@gmail.com'},
+    {'id': 1, 'nome': 'Jean Calisso', 'email': ''},
     ]
 
 ## Inicializa a lista onde ficará o resultado do sorteio
